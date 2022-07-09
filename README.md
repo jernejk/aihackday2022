@@ -1,6 +1,7 @@
 # Virtual AI Hack Day 2022
 
 Event details: https://aihackday.com/
+
 Presentations: https://github.com/jernejk/aihackday2022/tree/main/Melbourne/Presentations
 
 ## Getting Started with Cognitive Services
