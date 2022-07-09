@@ -7,7 +7,7 @@ Presentations: https://github.com/jernejk/aihackday2022/tree/main/Melbourne/Pres
 
 How to get started with Cognitive Services, many examples of Cognitives Services and how to use them.
 
-![Cognitive Service Graph](img/cognitive-services-graph.png)
+![Cognitive Service Graph](Melbourne/img/cognitive-services-graph.png)
 
 ### References:
 
