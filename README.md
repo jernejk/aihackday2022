@@ -1,14 +1,16 @@
-# Virtual AI Hack Day 2022
+# Virtual AI Hack Day 2022 - Sydney
 
 Event details: https://aihackday.com/
 
-Presentations: https://github.com/jernejk/aihackday2022/tree/main/Melbourne/Presentations
+Presentations: https://github.com/jernejk/aihackday2022/tree/main/Sydney/Presentations
+
+AI Hack Day 2022 - Melbourne: https://github.com/jernejk/aihackday2022/blob/main/Sydney/readme.md
 
 ## Getting Started with Cognitive Services
 
 How to get started with Cognitive Services, many examples of Cognitives Services and how to use them.
 
-![Cognitive Service Graph](Melbourne/img/cognitive-services-graph.png)
+![Cognitive Service Graph](Sydney/img/cognitive-services-graph.png)
 
 ### References:
 
@@ -21,14 +23,20 @@ How to get started with Cognitive Services, many examples of Cognitives Services
 - [AI Builder in Power Automate](https://docs.microsoft.com/en-us/ai-builder/use-in-flow-overview)
 - [AI School](https://www.microsoft.com/en-us/ai/ai-school)
 
-## Enable easy ML model deployment using tools of your own preference with ONNX
+## AI/ML in Power Bi
 
-Over the years, data scientists and engineers have worked on great tools to build and generate useful machine learning models across different industries. Open Neural Network Exchange is an open ecosystem which empowers data scientists and engineers to collaborate. With ONNX, we are able to export our machine learning models to a standard format so it can be deployed and used by other applications. In the talk, I will show you what is ONNX and how we can leverage it to deploy our ML models to different apps including frontend web app as well as backend server app.
+An overview on AI/ML within Power BI and on how to leverage its capabilities.
 
 
 ### References
 
-- [Get started with Bot Framework Composer](https://github.com/Microsoft/BotFramework-Composer)
+- [Power Bi](https://powerbi.microsoft.com/)
+
+## Boost your Customer Service with Opinion Mining 
+
+Good service acts as a catalyst for your customers and helps you get new customers, absolutely (or almost) free of charge. These customers express their opinions about range of things, every day. As this unstructured, raw data grows, it gets more difficult to analyse hence, to tackle these issues, a natural language processing technique (NLP) comes into play which is called Opinion Mining.
+
+### References
 
 ## MS Learn
 
@@ -40,9 +48,9 @@ Microsoft Learn is a free online learning platform that helps you learn about th
 
 ## Presenters
 
-- Patrick Zhao - [Twitter](https://twitter.com/paladinapay)
+- Arafat Tehsin - [Twitter](https://twitter.com/arafattehsin)
+- Somy Ayazi - [Twitter](https://twitter.com/SomyAyazi)
 - Jernej Kavka (JK) - [Twitter](https://twitter.com/jernej_kavka)
-- William Liebenberg - [Twitter](https://twitter.com/William_DotNet)
 
 ## Additional community contributions
 
