@@ -1,4 +1,4 @@
-# Virtual AI Hack Day 2022 - Sydney
+# AI Hack Day 2022 - Sydney
 
 Event details: https://aihackday.com/
 

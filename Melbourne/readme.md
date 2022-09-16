@@ -1,4 +1,4 @@
-# Virtual AI Hack Day 2022 - Melbourne
+# AI Hack Day 2022 - Melbourne
 
 Event details: https://aihackday.com/
 
