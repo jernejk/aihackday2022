@@ -41,7 +41,6 @@ Good service acts as a catalyst for your customers and helps you get new custome
 📊  Sentiment Analysis and Opining Mining - https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview
 
 🧑‍💻 Samples - https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azure-text-analytics-client-sdk-samples/ 
-![image](https://user-images.githubusercontent.com/16351038/190833376-b11c9d6d-3d2b-4744-ba9f-c4f09c67a475.png)
 
 
 ### References
