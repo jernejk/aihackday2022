@@ -34,6 +34,16 @@ An overview on AI/ML within Power BI and on how to leverage its capabilities.
 
 Good service acts as a catalyst for your customers and helps you get new customers, absolutely (or almost) free of charge. These customers express their opinions about range of things, every day. As this unstructured, raw data grows, it gets more difficult to analyse hence, to tackle these issues, a natural language processing technique (NLP) comes into play which is called Opinion Mining.
 
+🧑‍💻  CognitiveRocket repo - https://github.com/arafattehsin/CognitiveRocket
+
+📪  Blog Post - https://www.arafattehsin.com/customer-service-with-opinion-mining/
+
+📊  Sentiment Analysis and Opining Mining - https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview
+
+🧑‍💻 Samples - https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azure-text-analytics-client-sdk-samples/ 
+![image](https://user-images.githubusercontent.com/16351038/190833376-b11c9d6d-3d2b-4744-ba9f-c4f09c67a475.png)
+
+
 ### References
 
 ## MS Learn
