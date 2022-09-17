@@ -1,10 +1,19 @@
-# AI Hack Day 2022 - Sydney
+# AI Hack Day 2022
+
+Here is the repository of resources, presentations, demos and links for AI Hack Day.
+
+* [AI Hack Day 2022 - Melbourne](https://github.com/jernejk/aihackday2022/tree/main/Melbourne)
+* [AI Hack Day 2022 - Sydney](https://github.com/jernejk/aihackday2022/tree/main/Sydney)
 
 Event details: https://aihackday.com/
 
-Presentations: https://github.com/jernejk/aihackday2022/tree/main/Sydney/Presentations
+Next event:
 
-AI Hack Day 2022 - Melbourne: https://github.com/jernejk/aihackday2022/blob/main/Sydney/readme.md
+* [AI Hack Day 2022 - Brisbane](https://aihackday.com/brisbane/)
+
+# AI Hack Day 2022 - Sydney
+
+Presentations: https://github.com/jernejk/aihackday2022/tree/main/Sydney/Presentations
 
 ## Getting Started with Cognitive Services
 
@@ -37,6 +46,14 @@ An overview on AI/ML within Power BI and on how to leverage its capabilities.
 Good service acts as a catalyst for your customers and helps you get new customers, absolutely (or almost) free of charge. These customers express their opinions about range of things, every day. As this unstructured, raw data grows, it gets more difficult to analyse hence, to tackle these issues, a natural language processing technique (NLP) comes into play which is called Opinion Mining.
 
 ### References
+
+🧑‍💻  CognitiveRocket repo - https://github.com/arafattehsin/CognitiveRocket
+
+📪  Blog Post - https://www.arafattehsin.com/customer-service-with-opinion-mining/
+
+📊  Sentiment Analysis and Opining Mining - https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview
+
+🧑‍💻 Samples - https://docs.microsoft.com/en-us/samples/azure/azure-sdk-for-net/azure-text-analytics-client-sdk-samples/ 
 
 ## MS Learn
 
