@@ -61,7 +61,8 @@ Microsoft Learn is a free online learning platform that helps you learn about th
 
 ### References
 
-- [Microsoft Learn](https://www.microsoft.com/en-us/learning/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+- [Microsoft Virtual Training](https://events.microsoft.com/en-us/allevents/?language=English&clientTimeZone=1)
 
 ## Presenters
 
